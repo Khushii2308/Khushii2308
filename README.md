@@ -13,10 +13,6 @@
 📚 **Currently Exploring:** Deep Learning • React Ecosystem • MLOps  
 🤝 **Open to collaboration & networking**
 
-<p align="center">
-  <img src="https://usagif.com/wp-content/uploads/gify/one-piece-anime-usagif-animation-32.gif" height="260" alt="Anime Profile Card" />
-</p>
-
 ---
 
 ## 📜 Daily Quote to Keep You Inspired
