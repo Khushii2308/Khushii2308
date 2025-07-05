@@ -51,7 +51,7 @@
   <a href="mailto:khushiiib2004@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <a href="https://portifolio-website-livid.vercel.app/" target="_blank">
+  <a href="https://khushi-bansal-ten.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="Portfolio" />
   </a>
 </div>
