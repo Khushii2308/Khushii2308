@@ -32,14 +32,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khushii2308&theme=dracula&row=1&no-bg=true&margin-w=10&no-frame=true" />
-</p>
-
----
-
 ## 🛠 Tech Stack & Tools
 
 <div align="left">
